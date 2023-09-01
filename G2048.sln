@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34018.315
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "G2048_Tests", "G2048_Tests\G2048_Tests.csproj", "{0658E1CD-71AF-45D3-A2C1-DCA02AE7715F}"
+EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E4052C1A-4F64-4080-8E52-23DCDFE8F1D5}"
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
@@ -16,6 +18,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0658E1CD-71AF-45D3-A2C1-DCA02AE7715F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0658E1CD-71AF-45D3-A2C1-DCA02AE7715F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0658E1CD-71AF-45D3-A2C1-DCA02AE7715F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0658E1CD-71AF-45D3-A2C1-DCA02AE7715F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{166E6338-9544-4295-890A-4F28B559E5E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{166E6338-9544-4295-890A-4F28B559E5E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{166E6338-9544-4295-890A-4F28B559E5E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
