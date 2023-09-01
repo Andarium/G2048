@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34018.315
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "G2048_Console", "G2048_Console\G2048_Console.csproj", "{D08F9A22-A55C-4295-90AD-C1E4A0974FDD}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "G2048_Tests", "G2048_Tests\G2048_Tests.csproj", "{0658E1CD-71AF-45D3-A2C1-DCA02AE7715F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E4052C1A-4F64-4080-8E52-23DCDFE8F1D5}"
@@ -18,6 +20,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D08F9A22-A55C-4295-90AD-C1E4A0974FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D08F9A22-A55C-4295-90AD-C1E4A0974FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D08F9A22-A55C-4295-90AD-C1E4A0974FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D08F9A22-A55C-4295-90AD-C1E4A0974FDD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0658E1CD-71AF-45D3-A2C1-DCA02AE7715F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0658E1CD-71AF-45D3-A2C1-DCA02AE7715F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0658E1CD-71AF-45D3-A2C1-DCA02AE7715F}.Release|Any CPU.ActiveCfg = Release|Any CPU
